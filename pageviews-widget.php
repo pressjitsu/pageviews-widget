@@ -210,6 +210,10 @@ class Pageviews_Widget extends WP_Widget {
 				'label' => '180 days',
 				'after' => '180 days ago',
 			),
+			'365-days' => array(
+				'label' => '365 days',
+				'after' => '365 days ago',
+			),
 		);
 	}
 
